@@ -1,0 +1,18 @@
+## VLAN & DHCP Configuration
+
+This project demonstrates VLAN creation, DHCP configuration, and IP address management using Cisco Packet Tracer.
+
+### Technologies
+- Cisco Packet Tracer
+- Router & Switch
+- VLAN
+- DHCP
+
+### Features
+- VLAN Configuration
+- DHCP Server Setup
+- Automatic IP Assignment
+- Network Connectivity Testing
+
+### Purpose
+To learn basic Cisco networking and VLAN management.
